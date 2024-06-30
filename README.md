@@ -1,13 +1,16 @@
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fabriciocaua/fabriciocaua/output/snake.svg" alt="Snake animation" />
-
-###
 <!--título-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+  <ul style="list-style-type: none; padding: 0; text-align: center;">
+    <li>
+      <h1 style="display: inline-block;">Hello World</h1>
+    </li>
+  </ul>
 </div>
+    
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://media1.tenor.com/m/SWg8Pi3TLSkAAAAC/pixel-art-computer.gif" alt="Labor Day GIF">
+</p>
 
 <!-- Presentation -->
 <p>
@@ -38,15 +41,12 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
+- [Projeto git](https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7)
+
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://media1.tenor.com/m/SxRYK7O8q6EAAAAC/labor-day.gif" alt="Labor Day GIF" alt="Labor Day GIF">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Labor Day GIF">
 </p>
 
 ## 🔥 Skills
