@@ -2,15 +2,11 @@
 <div id="user-content-toc">
   <ul style="list-style-type: none; padding: 0; text-align: center;">
     <li>
-      <h1 style="display: inline-block;">Hello World</h1>
+      <h1 style="display: inline-block;">Hello World!</h1>
     </li>
   </ul>
 </div>
     
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://media1.tenor.com/m/SWg8Pi3TLSkAAAAC/pixel-art-computer.gif" alt="Labor Day GIF">
-</p>
 
 <!-- Presentation -->
 <p>
